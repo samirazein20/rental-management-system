@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/clients_mgt_service/clients_mgt_service.iml" filepath="$PROJECT_DIR$/clients_mgt_service/clients_mgt_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contracts_mgt_service/contracts_mgt_service.iml" filepath="$PROJECT_DIR$/contracts_mgt_service/contracts_mgt_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discoverServer/discoverServer.iml" filepath="$PROJECT_DIR$/discoverServer/discoverServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estate_mgt_service/estate_mgt_service.iml" filepath="$PROJECT_DIR$/estate_mgt_service/estate_mgt_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rental-management-system.iml" filepath="$PROJECT_DIR$/.idea/rental-management-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user_mgt_service/rentalproject.iml" filepath="$PROJECT_DIR$/user_mgt_service/rentalproject.iml" />
+    </modules>
+  </component>
+</project>
